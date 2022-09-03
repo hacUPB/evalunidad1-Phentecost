@@ -34,7 +34,7 @@
  @cont
  M=D
  @CP
- M=1
+ M=D
  @32
  D=A 
  @salto
