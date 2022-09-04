@@ -33,11 +33,13 @@
  D=A
  @cont
  M=D
- @CP
- M=D
  @32
  D=A 
  @salto
+ M=D
+ @256
+ D=A
+ @CP
  M=D
  @bool
  M=0
@@ -53,12 +55,12 @@
  D=A
  @cont
  M=D
- @CP
- M=-1
  @1
  D=A 
  @salto
  M=D
+ @CP
+ M=-1
  @bool
  M=1
  @SET
