@@ -45,7 +45,7 @@
  0;JMP
 
  (LINEAHORIZONTAL)
- @20480
+ @20496
  D=A
  @coord
  M=D 
