@@ -45,7 +45,7 @@
  0;JMP
 
  (LINEAHORIZONTAL)
- @20496
+ @20480
  D=A
  @coord
  M=D 
@@ -86,7 +86,7 @@
  @coord 
  D=M
  @pscreen
- M=D //memoria donde inicia la pantalla01
+ M=D 
  
 
 (PAINT)
